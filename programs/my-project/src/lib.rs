@@ -7,7 +7,6 @@ use anchor_lang::prelude::*;
 
 pub use constants::*;
 pub use instructions::*;
-pub use state::*;
 
 declare_id!("DxAee2iwHG4Rs9QgCh67dyMHKGhCmmUCo9ftsUpcbTqp");
 
